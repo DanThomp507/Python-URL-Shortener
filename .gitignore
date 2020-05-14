@@ -126,3 +126,4 @@ dmypy.json
 
 pyvenv.cfg
 bin
+db.sqlite3
