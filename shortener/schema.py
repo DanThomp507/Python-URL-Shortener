@@ -1,7 +1,9 @@
 import graphene
 from graphene_django import DjangoObjectType
+from django.db.models import Q
 
 from .models import URL
+
 
 
 class URLType(DjangoObjectType):
