@@ -1,5 +1,7 @@
 # Python URL Shortener
 
+User interface coming soon
+
 ## Installation Instructions
 
 * git clone <https://github.com/DanThomp507/Python-URL-Shortener>
