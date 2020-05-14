@@ -5,8 +5,8 @@
 * git clone <https://github.com/DanThomp507/Python-URL-Shortener>
 * create and start a virtual environment:
 ```
-virtualenv env --no-site-packages
-source env/bin/activate
+python3 -m venv python-shortener
+source python-shortener/bin/activate
 ```
 * Install all project dependencies: 
 ```
